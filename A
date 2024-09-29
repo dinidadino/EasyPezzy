@@ -1,0 +1,7 @@
+/EazyPezzy/
+├── index.html
+├── styles.css
+├── app.js
+├── manifest.json
+├── images/
+│   └── icon.png (App icon)
